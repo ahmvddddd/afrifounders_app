@@ -12,7 +12,9 @@ This Flutter application is a tecnical assesment task for Fluter Developer Role 
 The home screen displays a scrollable list of shopping items. Each item is represented using a ListTile widget. Users can view all added items in an organized list format.
 
 **Screenshot**
-![Shopping List Screen](assets/home_screen.png)
+<p align="left">
+<img src="assets/home_screen.png" alt="Home Screen" width="220" height="500"/>
+</p>
 
 ---
 
@@ -20,7 +22,9 @@ The home screen displays a scrollable list of shopping items. Each item is repre
 A floating action button is available on the home screen. When pressed, it opens a new screen that allows users to input and save a new shopping item. The new item appears immediately in the list after saving.
 
 **GIF**
-![Add Item](assets/add_item.gif)
+<p align="left">
+<img src="assets/add_item.gif" alt="Add Item" width="220" height="500"/>
+</p>
 
 ---
 
@@ -28,7 +32,9 @@ A floating action button is available on the home screen. When pressed, it opens
 Tapping on any item in the list opens the edit screen. The user can modify the name of the selected shopping item and save changes. The updated data is instantly reflected in the main list.
 
 **GIF**
-![Edit Item](assets/edit_item.gif)
+<p align="left">
+<img src="assets/edit_item.gif" alt="Edit Item" width="220" height="500"/>
+</p>
 
 ---
 
@@ -36,7 +42,9 @@ Tapping on any item in the list opens the edit screen. The user can modify the n
 Users can remove any item from the list by swiping it from right to left. The dismissed item is permanently deleted and the updated list is saved locally.
 
 **GIF**
-![Delete Item](assets/delete_item.gif)
+<p align="left">
+<img src="assets/delete_item.gif" alt="Delete Item" width="220" height="500"/>
+</p>
 
 ---
 
@@ -62,7 +70,9 @@ All items and the selected theme mode are saved locally on the device using the 
 A toggle button in the AppBar allows switching between light and dark modes. The selected mode affects the entire application immediately and is persisted in SharedPreferences.
 
 **GIF**
-![Delete Item](assets/dark_mode_toggle.gif)
+<p align="left">
+<img src="assets/dark_mode_toggle.gif" alt="Dark Mode" width="220" height="500"/>
+</p>
 
 ---
 
