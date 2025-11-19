@@ -3,6 +3,13 @@
 ## Overview
 This Flutter application is a tehcnical assessment task for Fluter Developer Role at Afrihub Startup Studio. It is a simple shopping list manager that allows users to add, edit, and delete shopping items. It uses Riverpod for state management and SharedPreferences for local data persistence. The app also includes a dark mode toggle that updates the entire app theme dynamically and saves the user preference.
 
+---
+
+## Download APK (Beta)
+
+If you want to try the Android app quickly, download the latest APK:
+
+[![Download APK](https://img.shields.io/badge/APK-download-brightgreen)](https://drive.google.com/file/d/1TDDwytPG_dOeSPckULPDvqQn2bC3obiP/view?usp=drive_link)
 
 ---
 
